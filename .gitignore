@@ -1,1 +1,4 @@
 *.txt
+./data/positive/*.jpg
+./data/anchor/*.jpg
+*.jpg
