@@ -2,3 +2,4 @@
 ./data/positive/*.jpg
 ./data/anchor/*.jpg
 *.jpg
+*.h5
