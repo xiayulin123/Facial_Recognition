@@ -55,5 +55,14 @@ Visit the my website to learn more about my projects. Feel free to explore the c
 *   Team Collaboration and Communication
 *   Debugging
 *   Coding Structure
+<h2>🎥 Demo</h2>
 
+Check out a brief demo of the Facial Detection project:
+False Detection 
+![False](https://github.com/xiayulin123/Facial_Recognition/blob/main/FalseDetection.png）
+<h2></h2>
+True Detection
+![True](https://github.com/xiayulin123/Facial_Recognition/blob/main/TrueDetection.png)
+<h2></h2>
 This project is a testament to the power of cutting-edge technology and effective teamwork, providing a secure and user-friendly platform for real-time facial detection and verification scenarios.
+
