@@ -59,10 +59,13 @@ Visit the my website to learn more about my projects. Feel free to explore the c
 
 Check out a brief demo of the Facial Detection project:
 False Detection 
-![False](https://github.com/xiayulin123/Facial_Recognition/blob/main/FalseDetection.png）
+![FalseDetection](https://github.com/xiayulin123/Facial_Recognition/assets/113715923/75ea5a10-d3ce-463e-a34d-e8ad50581aa7)
+
+
 <h2></h2>
 True Detection
-![True](https://github.com/xiayulin123/Facial_Recognition/blob/main/TrueDetection.png)
+
+![TrueDetection](https://github.com/xiayulin123/Facial_Recognition/assets/113715923/78fb9ffe-5654-4f06-918e-f831a046e5f7)
 <h2></h2>
 This project is a testament to the power of cutting-edge technology and effective teamwork, providing a secure and user-friendly platform for real-time facial detection and verification scenarios.
 
