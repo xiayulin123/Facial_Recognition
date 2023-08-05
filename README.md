@@ -38,7 +38,8 @@ Explore the project's standout features:
 
 Visit the my website to learn more about my projects. Feel free to explore the code repository on GitHub for detailed insights into the implementation.
 
-[Project Website](https://www.xiayulin.online)
+[My Website](https://www.xiayulin.online)
+
 [GitHub Repository](https://github.com/xiayulin123/Facial_Recognition)
 
 <h2>🛠️ Technical Skills</h2>
