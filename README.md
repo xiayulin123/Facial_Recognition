@@ -3,21 +3,13 @@
 <p id="description">Facial Detection is an innovative project that embodies real-time facial verification and detection capabilities. The project leverages cutting-edge technology to create a seamless experience for users, offering a range of powerful features.</p>
 
 <div align="center">
-    <a href="https://opencv.org/">
-        <img src="https://img.shields.io/badge/OpenCV-%E2%9C%94-brightgreen" alt="OpenCV">
-    </a>
-    <a href="https://www.tensorflow.org/">
-        <img src="https://img.shields.io/badge/Tensorflow-%E2%9C%94-orange" alt="TensorFlow">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Data_preprocessing">
-        <img src="https://img.shields.io/badge/Data%20Preprocessing-%E2%9C%94-blue" alt="Data Preprocessing">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Siamese_neural_network">
-        <img src="https://img.shields.io/badge/Siamese%20Network-%E2%9C%94-yellow" alt="Siamese Network">
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Training,_inference,_and_testing_of_neural_networks">
-        <img src="https://img.shields.io/badge/Model%20Training-%E2%9C%94-lightgrey" alt="Model Training">
-    </a>
+    
+[![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)](https://opencv.org/)
+[![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)](https://www.tensorflow.org/)
+[![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-FFD700?style=flat)](https://en.wikipedia.org/wiki/Data_preprocessing)
+[![Siamese Network](https://img.shields.io/badge/-Siamese%20Network-1E90FF?style=flat)](https://en.wikipedia.org/wiki/Siamese_neural_network)
+[![Model Training](https://img.shields.io/badge/-Model%20Training-32CD32?style=flat)](https://en.wikipedia.org/wiki/Model_training)
+
 </div>
 
 <h2>🧐 Features</h2>
