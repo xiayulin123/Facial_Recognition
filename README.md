@@ -3,7 +3,7 @@
 <p id="description">Facial Detection is an innovative project that embodies real-time facial verification and detection capabilities. The project leverages cutting-edge technology to create a seamless experience for users, offering a range of powerful features.</p>
 
 <div align="center">
-    
+
 [![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=flat)](https://opencv.org/)
 [![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)](https://www.tensorflow.org/)
 [![Data Preprocessing](https://img.shields.io/badge/-Data%20Preprocessing-FFD700?style=flat)](https://en.wikipedia.org/wiki/Data_preprocessing)
